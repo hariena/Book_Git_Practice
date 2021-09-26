@@ -1,0 +1,21 @@
+Is it an area where a single project can be used by more than one person?
+
+=== yes it helps us to work project in groups
+
+does git and github the same?
+
+==== no their total different Github is an applications that can keep codes ,  Git is a tool,
+
+what is the difference Github and Gitlab?
+
+== Git is a software that allows you truck and Github is a website and online platform , and you can see it too,
+
+we can have to have git in order to move the code to the Github,
+
+the testers are using Github , but their not have the same with developers
+
+we can use Git with many ways , we will it in intellij
+
+Github desktop is a tool and it allows us to use Git
+
+Repository is just a folder or a storage store your file, that git keeps track change
