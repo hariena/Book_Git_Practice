@@ -1,0 +1,8 @@
+
+This is our third page
+
+The story is interesting
+
+random text
+
+This third page creat to check if it is commit
