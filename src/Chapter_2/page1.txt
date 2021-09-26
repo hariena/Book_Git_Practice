@@ -1,0 +1,18 @@
+
+what is Git?
+
+version control system, and helps to keep track files.
+
+is a software used to keep track
+
+What is Github?
+
+the platform that hosts git repositories (website)
+
+What is local repository?
+
+on your computer the folder that keeping track of change
+
+What is a remote repository?
+
+the folder on any given platforms, we are using guthub, keeps track of changes online.
